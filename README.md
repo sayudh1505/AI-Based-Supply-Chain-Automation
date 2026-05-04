@@ -1,4 +1,4 @@
-# AI-Powered Supply Chain Automation & Analytics Pipeline
+# AI-Based-Supply-Chain-Automation
 
 ## Overview
 This project presents an end-to-end automated data pipeline designed to streamline supply chain data processing and analysis. It eliminates manual data handling by integrating email-based data ingestion, database storage, and AI-driven analytics into a unified workflow.
